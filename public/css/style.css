@@ -1,0 +1,8 @@
+@import url(/public/css/color.css);
+@import url(/public/css/reset.css);
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
